@@ -10,7 +10,7 @@
 * Considering these needs, I developed a web-based application. Another reason why I developed the project was to gain new information and improve myself.
 
 * You can try the live version of the project at the following address:
-* Link: https://visitor-book.erengaygusuz.com.tr
+* Link: https://visitorbook.erengaygusuz.com.tr
   
 * You can register the system as a Visitor, request for Visitor Recorder Account or try as an Admin with using information below
   
@@ -214,7 +214,7 @@ There are some options to use this project.
 
 * Youtube:
 * Docker Hub: https://hub.docker.com/r/erengaygusuz/visitor-book
-* Live Version: https://visitor-book.erengaygusuz.com.tr
+* Live Version: https://visitorbook.erengaygusuz.com.tr
 
 ## License
 
